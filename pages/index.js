@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
-import MyButton from '../components/functions.js';
 import { useState } from 'react';
 
 
